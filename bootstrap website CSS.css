@@ -1,0 +1,66 @@
+
+#butt{
+    
+    background-color: aliceblue;
+    padding: 12px;
+}
+#image:hover{
+       height:110px;
+    transition:0.5s;
+    color: ;
+}
+
+#text:hover{
+    width:800px ;
+    background-image: linear-gradient(to right,white,powderblue,cadetblue);
+    transition: 0.8s;
+}
+
+#text{  
+    border: 0.5px solid grey;
+    border-radius: 20px;
+    padding: 1%;
+    width: 600px;
+}
+
+div #caro{
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+
+body {  
+    background-image: url("https://c1.wallpaperflare.com/preview/582/757/158/denim-jeans-cloth-material.jpg");              
+     
+    }  
+
+    .cloths{
+        text-decoration: none;
+       color: black;
+    }
+    .container{
+       border: 1px solid black;
+       border-radius: 20px;
+       box-shadow:5px 5px lightslategray;
+       background-color:rgb(196, 235, 196)
+      
+       
+    }
+   
+    .card-img-top:hover{
+       padding:20px;
+       transition: 0.5s;       
+       
+    }
+    .card-img-top{
+        box-shadow:5px 5px lightslategray;
+
+    }
+
+    .card{
+        box-shadow:5px 5px lightslategray;
+    }
+
+
+
+ 
