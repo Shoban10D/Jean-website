@@ -1,0 +1,59 @@
+body{
+    background-image: url("https://images.pexels.com/photos/603022/pexels-photo-603022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#image:hover{
+       height:110px;
+    transition:0.5s;
+    
+}
+#logintext{
+    border: 1px solid white;
+    border-radius: 30px;
+    width: 250px;
+    background-image: linear-gradient(to right,white,rgb(238, 213, 178));
+    color: black;   
+    
+}
+
+
+#forms{
+    border: 3px solid rgb(199, 140, 223);
+    border-radius: 20px;
+    
+    background-image: linear-gradient(to bottom right,powderblue,rgb(97, 128, 187));
+    
+    width: 500px;;
+    height: 300px;
+    color: black;
+   
+}
+#butto:hover{
+    padding: 10px;
+    transition: 0.5s;
+}
+
+.box{
+    border: 1px solid rgb(132, 194, 199);
+    border-radius: 20px;
+    padding: 5px;
+ } 
+
+
+
+
+
+ /* 
+
+ Below are registration form's css
+
+ */
+
+
+
+
+    
+    
+

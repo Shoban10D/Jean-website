@@ -7,7 +7,7 @@
 #image:hover{
        height:110px;
     transition:0.5s;
-    color: ;
+    
 }
 
 #text:hover{
@@ -26,6 +26,14 @@
 div #caro{
     border: 2px solid blue;
     border-radius: 10px;
+}
+#login{
+    text-decoration:none;
+    color: black;
+}
+#register{
+    text-decoration:none;
+    color: black;
 }
 
 
